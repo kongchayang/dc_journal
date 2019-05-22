@@ -1,0 +1,39 @@
+
+body{}
+
+.box1 {
+    height: 300px;
+    width: 300px;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+}
+
+.button1{
+
+}
+
+.button2{
+    
+}
+/* The names of the colors are being experiment on  */
+.green{
+    background-color: chartreuse;
+}
+
+.grey{
+    background-color: gray;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: burlywood;
+}
